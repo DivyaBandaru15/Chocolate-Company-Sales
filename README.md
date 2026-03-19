@@ -1,1 +1,2 @@
 # Chocolate-Company-Sales
+Developed a Power BI report connected to a real sales dataset via SQL to analyse regional sales performance across product categories including bars, beverages, and dairy. Built DAX measures and calculated columns to track category-wise revenue, regional comparisons, and month-over-month growth trends. Published to Power BI Service, enabling data-driven decisions around inventory planning, regional targeting, and sales strategy.
